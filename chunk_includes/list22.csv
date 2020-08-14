@@ -1,0 +1,41 @@
+item,expSet,grammaticallyCorrect,condition,socStat,context,word1,word2,word3,word4,word5,list,stimuli
+21,WP2,no,h,low,Der Gaffer stre&szlig;te das Gesocks:,Der,Marktschreier,wurmen,den,Obsth&auml;ndler.,2,Critical
+22,WP2,yes,g,low,Der Kerl verzapfte eine gruselige Story:,Der,Gastwirt,schmierte,den,Winzer.,2,Critical
+23,WP2,no,j,high,Der Dirigent raunte w&auml;hrend der Darbietung:,Der,Geiger,knuffen,den,S&auml;nger.,2,Critical
+24,WP2,yes,i,high,Die Hausherren priesen die Novit&auml;t:,Der,G&auml;rtner,bezirzte,den,Pf&ouml;rtner.,2,Critical
+25,WP2,no,h,high,Der Publizist korrespondierte &uuml;ber das E&szlig;ay:,Der,Kunstreiter,inspizieren,den,Ringk&auml;mpfer.,2,Critical
+26,WP2,yes,g,high,Der Hotelier verk&uuml;ndigte der vornehmen Gesellschaft:,Der,Rocks&auml;nger,beredete,den,Schlagzeuger.,2,Critical
+27,WP2,no,j,low,Die Landratten quatschten mit dem Seeb&auml;ren:,Der,Kapit&auml;n,veralbern,den,General.,2,Critical
+28,WP2,yes,i,low,Die Alten verklickerten dem Knirps:,Der,Bruder,hinterging,den,Vetter.,2,Critical
+29,WP2,no,h,low,Die Tratschtante petzte bei der Nachbarin:,Der,Nachtportier,kneifen,den,Landstreicher.,2,Critical
+30,WP2,yes,g,low,Der Bulle pinselte eine Notiz:,Der,Verbrecher,bem&auml;kelte,den,Kontaktmann.,2,Critical
+31,WP2,no,j,high,Der Theaterdirektor pr&auml;zisierte in den Memoiren:,Der,Bengel,ver&auml;ppeln,den,Flegel.,2,Critical
+32,WP2,yes,i,high,Der Profe&szlig;orenrat debattierte &uuml;ber den Zwist:,Der,Rektor,begaffte,den,Sch&uuml;ler.,2,Critical
+33,WP2,no,h,high,Die Repr&auml;sentanten verifizierten den Eklat:,Der,S&auml;ufer,peinigen,den,Rowdy.,2,Critical
+34,WP2,yes,g,high,Der Bevollm&auml;chtigte dokumentierte die Furore:,Der,Raufbold,pr&uuml;gelte,den,H&auml;ftling.,2,Critical
+35,WP2,no,j,low,Der Paparazzo faselte die kra&szlig;en News:,Der,Radprofi,martern,den,Rennfahrer.,2,Critical
+36,WP2,yes,i,low,Die Kammerm&auml;dchen pfuschten auf dem Schmierzettel:,Der,Edelmann,betrog,den,Hofmaler.,2,Critical
+37,WP2,no,h,low,Die Sekret&auml;rin klatschte &uuml;ber den Go&szlig;ip:,Der,Dekan,verteufeln,den,Kanzler.,2,Critical
+38,WP2,yes,g,low,Die Olle postete den Kram:,Der,Gendarm,schnappte,den,R&auml;uber.,2,Critical
+39,WP2,no,j,high,Das Konsulat &uuml;berlieferte den Rapport:,Der,Fremdenf&uuml;hrer,bluffen,den,Gro&szlig;wildj&auml;ger.,2,Critical
+40,WP2,yes,i,high,Die Richter urteilten souver&auml;n:,Der,Barkeeper,di&szlig;te,den,Weinkenner.,2,Critical
+21,WP1,yes,c,high,Fachkundig instruiert signalisiert Florian:,Ich,st&auml;hle,jetzt,meinen,Bauch.,2,Filler
+21,WP1,no,f,low,Fix ger&uuml;stet plappert Florian:,Ich,st&auml;hle,jetzt,meinen,K&ouml;ter.,2,Filler
+23,WP1,no,e,high,Beflissen arbeitend k&uuml;ndet Lars:,Ich,k&auml;mme,gleich,meine,Flasche.,2,Filler
+23,WP1,yes,d,low,Emsig werkelnd labert Lars:,Ich,k&auml;mme,gleich,meine,M&auml;hne.,2,Filler
+25,WP1,yes,c,high,Unerh&ouml;rt wohlhabend &auml;u&szlig;ert Heike:,Ich,pedik&uuml;re,bald,meine,F&uuml;&szlig;e.,2,Filler
+25,WP1,no,f,low,Mordsm&auml;&szlig;ig betucht brabbelt Heike:,Ich,pedik&uuml;re,bald,meine,Bude.,2,Filler
+27,WP1,no,e,high,Meisterlich begabt stimuliert Susanna:,Ich,schneidere,jetzt,meine,Geige.,2,Filler
+27,WP1,yes,d,low,Enorm geschickt schnattert Susanna:,Ich,schneidere,jetzt,meine,Fummel.,2,Filler
+29,WP1,yes,c,high,Exzessiv arrogant intoniert Annika:,Ich,rauche,bald,meine,Zigarre.,2,Filler
+29,WP1,no,f,low,Extrem gro&szlig;kotzig meint Annika:,Ich,rauche,bald,meine,Kneipe.,2,Filler
+31,WP1,no,e,high,Grandios geschult prophezeit Klaus:,Ich,feuer,bald,meine,Arznei.,2,Filler
+31,WP1,yes,d,low,Spitze gedrillt schnarrt Klaus:,Ich,feuer,bald,meine,Knarre.,2,Filler
+33,WP1,yes,c,high,Unermesslich wohlerzogen frohlockt Elisabeth:,Ich,lese,sp&auml;ter,meine,B&uuml;cher.,2,Filler
+33,WP1,no,f,low,Ganz doll wacker wiehert Elisabeth:,Ich,lese,sp&auml;ter,meine,Brause.,2,Filler
+35,WP1,no,e,high,Effizient autonom deklariert Vera:,Ich,schminke,sp&auml;ter,meine,Lampe.,2,Filler
+35,WP1,yes,d,low,Massiv selbst&auml;ndig protzt Vera:,Ich,schminke,sp&auml;ter,meine,Glubscher.,2,Filler
+37,WP1,yes,c,high,Achtsam wohlmeinend verbalisiert Norbert:,Ich,wasche,gleich,meine,Finger.,2,Filler
+37,WP1,no,f,low,Recht zuvorkommend plauscht Norbert:,Ich,wasche,gleich,meine,Pl&uuml;rre.,2,Filler
+39,WP1,no,e,high,Leger verweilend ersinnt Sabine:,Ich,betreibe,jetzt,meine,Hausschuhe.,2,Filler
+39,WP1,yes,d,low,L&auml;ssig chillend quasselt Sabine:,Ich,betreibe,jetzt,meine,Absteige.,2,Filler

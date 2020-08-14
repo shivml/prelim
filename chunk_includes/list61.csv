@@ -1,0 +1,41 @@
+item,expSet,grammaticallyCorrect,condition,socStat,context,word1,word2,word3,word4,word5,list,stimuli
+1,WP2,no,h,low,Der Rau&szlig;chmei&szlig;er blaffte zum Jungen:,Der,Trinker,verpfeifen,den,R&uuml;pel.,6,Critical
+2,WP2,yes,g,low,Der Knasti feixte auf dem Pausenhof:,Der,Skinhead,vertrimmte,den,Str&auml;fling.,6,Critical
+3,WP2,no,j,high,Der Schuldirektor begr&uuml;ndete in dem Verweis:,Der,Sportlehrer,triezen,den,Wettl&auml;ufer.,6,Critical
+4,WP2,yes,i,high,Der Kulturminister artikulierte im Jahresbericht:,Der,F&ouml;rderer,kraulte,den,Bildhauer.,6,Critical
+5,WP2,no,h,high,Der Zeitungsjunge tratschte den neusten Klatsch:,Der,Bischof,tadeln,den,Herrscher.,6,Critical
+6,WP2,yes,g,high,Der B&uuml;rgermeister proklamierte im Amtsblatt:,Der,Sheriff,&uuml;berlistete,den,Gauner.,6,Critical
+7,WP2,no,j,low,Der St&uuml;mper pl&auml;rrte in der Spielh&ouml;lle:,Der,Bandenchef,&uuml;bervorteilen,den,Raubm&ouml;rder.,6,Critical
+8,WP2,yes,i,low,Die Memme beheulte ihren Struggle:,Der,Sporttaucher,narrte,den,Brustschwimmer.,6,Critical
+9,WP2,no,h,low,Der Lausbub patzte ins Tagebuch:,Der,Reiseleiter,begucken,den,Abenteurer.,6,Critical
+10,WP2,yes,g,low,Der Nichtsnutz kr&auml;chzte lauthals:,Der,Wagenlenker,schmuste,den,Autoschlo&szlig;er.,6,Critical
+11,WP2,no,j,high,Der Kavalier bemerkte in seinem Gefolge:,Der,B&auml;cker,beschauen,den,H&auml;ndler.,6,Critical
+12,WP2,yes,i,high,Die Gelehrte bedauerte in ihrer Weisheit:,Der,Obdachlose,verp&ouml;nte,den,Bastard.,6,Critical
+13,WP2,no,h,high,Der Gentleman observierte beim Eintreten:,Der,Kneipenwirt,ma&szlig;regeln,den,Meisterkoch.,6,Critical
+14,WP2,yes,g,high,Der Hochwohlgeborene verbreitete anmutig:,Der,Bauer,probte,den,Helfer.,6,Critical
+15,WP2,no,j,low,Der Hanswurst krakelte auf dem Block:,Der,Staatsdiener,verleumden,den,Werksleiter.,6,Critical
+16,WP2,yes,i,low,Der A&szlig;i schmi&szlig; in die Runde:,Der,Techniker,behelligte,den,Handwerker.,6,Critical
+17,WP2,no,h,low,Die G&ouml;re beleierte den Schiri:,Der,Fechter,fighten,den,Gegner.,6,Critical
+18,WP2,yes,g,low,Der L&uuml;mmel krakeelte bei seiner Mutter:,Der,Ausbilder,sponserte,den,Springreiter.,6,Critical
+19,WP2,no,j,high,Der Hofmeister verlautbarte ohne Piet&auml;t:,Der,Priester,beschwafeln,den,Hausarzt.,6,Critical
+20,WP2,yes,i,high,Der Landesherr verewigte auf dem Pergament:,Der,Kaiser,h&auml;tschelte,den,Herzog.,6,Critical
+1,WP1,yes,c,high,Elegant angezogen spricht Peter:,Ich,binde,gleich,meine,Schuhe.,6,Filler
+1,WP1,no,f,low,Sauber zurechtgemacht labert Peter:,Ich,binde,gleich,meine,Klamotten.,6,Filler
+3,WP1,no,e,high,Modern ausgerichtet spricht Felix:,Ich,saniere,bald,meine,Ohren.,6,Filler
+3,WP1,yes,d,low,Schlampig eingestellt labert Felix.,Ich,saniere,bald,meine,Behausung.,6,Filler
+5,WP1,yes,c,high,H&ouml;chst strebsam verlautbart Moritz:,Ich,renoviere,sp&auml;ter,meine,Gem&auml;cher.,6,Filler
+5,WP1,no,f,low,Stark unter Dampf tr&ouml;tet Moritz:,Ich,renoviere,sp&auml;ter,meine,P&ouml;tte.,6,Filler
+7,WP1,no,e,high,Wohlgemut gesinnt proklamiert Dennis:,Ich,fahre,jetzt,mein,Gem&uuml;se.,6,Filler
+7,WP1,yes,d,low,Quietschfidel gelaunt twittert Dennis:,Ich,fahre,jetzt,mein,Stahlross.,6,Filler
+9,WP1,yes,c,high,Verm&ouml;gend situiert avisiert Paula:,Ich,verschrotte,bald,meine,Autos.,6,Filler
+9,WP1,no,f,low,Massig betucht schwafelt Paula:,Ich,verschrotte,bald,meine,Stelzen.,6,Filler
+11,WP1,no,e,high,Dienlich geschult kommentiert Daniel:,Ich,b&uuml;gel,gleich,meine,Pferde.,6,Filler
+11,WP1,yes,d,low,Patent trainiert verklickert Daniel:,Ich,b&uuml;gel,gleich,meine,Buxen.,6,Filler
+13,WP1,yes,c,high,Au&szlig;erordentlich pr&auml;pariert formuliert Maria:,Ich,schmiere,sp&auml;ter,meine,Butterbrote.,6,Filler
+13,WP1,no,f,low,Astrein hergerichtet plappert Maria:,Ich,schmiere,sp&auml;ter,meine,Klauen.,6,Filler
+15,WP1,no,e,high,Feinsinnig veranlagt verk&uuml;ndet Robert:,Ich,spare,jetzt,mein,Essen.,6,Filler
+15,WP1,yes,d,low,Helle gestrickt t&ouml;nt Robert:,Ich,spare,jetzt,mein,Moos.,6,Filler
+17,WP1,yes,c,high,Penibelst disponiert propagiert Tobias:,Ich,putze,gleich,mein,WC.,6,Filler
+17,WP1,no,f,low,Pingelig getrimmt schwafelt Tobias:,Ich,putze,gleich,mein,Vieh.,6,Filler
+19,WP1,no,e,high,Regsam engagiert renommiert Lukas:,Ich,unterschreibe,jetzt,meinen,Champagner.,6,Filler
+19,WP1,yes,d,low,Aktiv mit dabei protzt Lukas:,Ich,unterschreibe,jetzt,meinen,Wisch.,6,Filler
